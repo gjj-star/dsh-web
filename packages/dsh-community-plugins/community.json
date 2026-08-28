@@ -488,5 +488,17 @@
     "repo": "https://github.com/Zhiyi-Zhao/dsh-notion-skill",
     "category": "integration",
     "subcategory": "sync"
+  },
+  {
+    "id": "dsh-conversation-navigator",
+    "name": "会话导航",
+    "nameEn": "Conversation Navigator",
+    "author": "gjj-star",
+    "description": "按轮折叠的会话导航面板：右侧悬浮轮次大纲（直接展示提问文字与步次徽标，区别于点阵时间轴），点击跳转与阅读位置实时高亮，关键词过滤（仅检索提问与回复），悬停气泡查看提问全文；四种形态（显示/隐藏/极简·右/极简·左）、拖拽定位、UI 状态持久化，纯浏览器零依赖。",
+    "descriptionEn": "A turn-folded conversation navigator panel: floating turn outline on the right (shows question text and step badges directly, unlike dot timelines), click-to-jump with live reading-position highlight, keyword filter over questions and replies, hover bubble for the full prompt; four modes (full / hidden / minimal-right / minimal-left), draggable docking and UI persistence - browser-only, zero dependencies.",
+    "repo": "https://github.com/gjj-star/dsh-conversation-navigator",
+    "npm": "dsh-conversation-navigator",
+    "category": "ui",
+    "subcategory": "chat"
   }
 ]
